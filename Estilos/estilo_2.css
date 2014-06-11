@@ -1,0 +1,28 @@
+@charset "utf-8"
+/* css Document */
+body
+
+{
+font-size: 75%;
+font-family:verdana, arial, 'Sans serif';
+background-image:url('degeti.jpg');
+background-repeat:no-repeat;
+background-size:cover;
+background-color: #FFFFF0;
+color: #000080;
+margin:70px;
+}
+
+h1{ font-size: 200%;}
+
+h3{ font-size: 110%;}
+
+p
+{
+       text-decoration:under line;
+}
+
+ol { list-style: upper-roman;}
+
+a:link { color:FF0080;}
+a:hover{ color: red;}
